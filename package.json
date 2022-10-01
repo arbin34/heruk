@@ -1,0 +1,22 @@
+{
+  "name": "signin",
+  "version": "1.0.0",
+  "description": "weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arbin34/heruk.git"
+  },
+  "keywords": [
+    "v"
+  ],
+  "author": "verman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbin34/heruk/issues"
+  },
+  "homepage": "https://github.com/arbin34/heruk#readme"
+}
